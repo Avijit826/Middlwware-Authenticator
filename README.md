@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <!-- TITLE -->
-  <h1 align="center">Backend Authentication with JWT</h1>
+  <h1 align="center">Middlwware Authenticator</h1>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -21,7 +21,7 @@
 
 # 📖 About Project <a name="about-project"></a>
 
-**Backend Authentication with JWT** is a express-based `backend` only project with login and signup feature.
+**Middlwware Authenticator** is a express-based `backend` only project with login and signup feature.
 
 # 🛠 Built With <a name="built-with"></a>
 
@@ -53,13 +53,13 @@
 1. Clone the repo from Terminal
 
 ```bash
-git clone https://github.com/Avijit826/Backend-Authentication-with-JWT.git
+git clone https://github.com/Avijit826/Middlwware-Authenticator.git
 ```
 
 2. Open project folder
 
 ```bash
-   cd Backend-Authentication-with-JWT
+   cd Middlwware-Authenticator
 ```
 
 3. Install required packages
